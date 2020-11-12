@@ -2,7 +2,7 @@
 
 module.exports = {
 	
-	import VueHotjar from './plugins/hotjar';
+	import VueHotjar from '/plugins/hotjar';
 
 Vue.use(VueHotjar, { 
   id: '2075663',
