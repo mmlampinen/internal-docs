@@ -1,7 +1,7 @@
 import VueHotjar from './plugins/hotjar';
 
 Vue.use(VueHotjar, { 
-  id: '1234567',
+  id: '2075663',
   sv: '6' // optional, defaults to 6
 });
 
