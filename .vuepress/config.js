@@ -1,11 +1,14 @@
-import VueHotjar from './plugins/hotjar';
+
+
+module.exports = {
+	
+	import VueHotjar from './plugins/hotjar';
 
 Vue.use(VueHotjar, { 
   id: '2075663',
   sv: '6' // optional, defaults to 6
 });
 
-module.exports = {
 	title: 'Prifina Internal',
 	description: 'Resources for Working with Prifina',
 	themeConfig: {
