@@ -48,7 +48,6 @@ Available statuses:
                
 The User Story can be approved, when all needed details in the User Story exist. When designs are approved, the individual User Story status in the cover frame of the user journey is marked “Approved” with a milestone version number. When the entire user story including the text documentation is approved, a “locked version” is created and stored in the team projects and the “in-progress” design file version number is updated.
 
-
 ## Back-end
 
 - Create a list of needed API/Lambda functions based on each of the user journeys steps, using the text-based specs as a guideline
